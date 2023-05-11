@@ -1,1 +1,1 @@
-# svelte.todo
+# Svelte demo - To Do app
